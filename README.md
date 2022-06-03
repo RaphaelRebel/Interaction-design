@@ -23,7 +23,7 @@ Leerjaar: 2
 Periode: 2
 
 ## Styleboard
-Naam: DES_Styletile_Raphael-RobinV-Amber.png
+Naam: DES_Styletile_Raphael-RobinV-Amber.png  
 Leerjaar: 2  
 Periode: 2  
 
@@ -43,7 +43,7 @@ Leerjaar 2
 Periode: 4
 
 ## Vertaling van visueel ontwerp naar prototype d.m.v. realisatie in HTML/CSS/JS
-Naam: Website.txt
+Naam: Website.txt  
 Leerjaar: 2  
 Periode: Bedrijf project 
 
